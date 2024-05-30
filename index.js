@@ -14,7 +14,7 @@ app.use("/api/auth/users", authRoutes);
 app.use("/api/auth/sellers", sellerRoutes);
 
 app.get('/', (req, res) => {
-    res.send('Hey I am Here')
+    res.send('Books API is running')
 })
 
 app.listen(process.env.PORT, () => {
