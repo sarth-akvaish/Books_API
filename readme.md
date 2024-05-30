@@ -2,6 +2,7 @@
 
 This repository contains the source code for a Books API built using Node.js, Express, and MySQL. The API provides endpoints for user authentication, seller authentication, and Books management.
 
+Explained in Video : https://drive.google.com/file/d/1pRudLmNTBLwwvu36p-F6XoIBfAXfI2Cq/view?usp=sharing
 ## Installation
 
 1. Clone this repository to your local machine:
